@@ -1,6 +1,6 @@
 # Hi, I'm Jose Luis Hernando
 
-Technical SEO who builds his own tools.
+I help search engines and people find the right thing faster. Technical SEO at [Adevinta](https://www.adevinta.com/), automation-first, and building my own tools.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
