@@ -10,6 +10,7 @@ Technical SEO who builds his own tools.
 ## Open Projects
 
 - **[crux-vitals](https://github.com/jlhernando/crux-vitals)** — Zero-dependency Node.js client for batch Core Web Vitals analysis via the CrUX API
+- **[index-coverage-extractor](https://github.com/jlhernando/index-coverage-extractor)** — Extract Index Coverage and Sitemap Coverage reports from Google Search Console
 
 ## Connect
 
